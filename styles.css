@@ -215,18 +215,18 @@ a:hover {
 
 .project-left {
   display: table-cell;
-  width: 33%;
+  width: 42%;
   vertical-align: top;
 }
 
 .project-left img {
-  width: 250px;
-  height: 100px;
+  width: 300px;
+  height: 200px;
 }
 
 .project-right {
   display: table-cell;
-  width: 66%;
+  width: 58%;
   vertical-align: middle;;
   padding-left: 12px;
   padding-right: 6px;
